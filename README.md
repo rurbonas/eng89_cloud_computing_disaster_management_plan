@@ -1,6 +1,6 @@
 # Disaster Recovery In Cloud Computing
 ## Using AWS S3 Buckets
-![alt text](s3.jpg "main")
+![alt text](S3.jpg "main")
 
 
 ### installing dependencies and AWS command line interface:
@@ -13,11 +13,12 @@ sudo pip3 install boto3
 aws configure
 ```
 
+```
 >> AWS Access Key ID [****************A]:
 >> AWS Secret Access Key [****************0]:
 >> Default region name [eu-west-1]:
 >> Default output format [json]:
-
+```
 create file `touch test.py`
 
 
